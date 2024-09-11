@@ -7,3 +7,8 @@
 img {
     border: solid black;
 }
+
+.portrait-section {
+    display:flex;
+    justify-content: space-around;
+}
