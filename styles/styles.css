@@ -5,9 +5,9 @@
 }
 
 .navbar {
-    height: 100vh;
+    /* height: 100vh; */
     background-color: #c2c2c2;
-    padding-top: 20px;
+    padding-top: 10px;
 }
 
 img {
@@ -32,11 +32,9 @@ img {
 .portrait-section .portrait {
 	width: 200px;
 	height: 200px;
-	/* border: 10px solid #ccc; */
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	background-color: #f8f9fa;
 }
 
 .customer-info {
